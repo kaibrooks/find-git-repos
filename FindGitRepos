@@ -1,0 +1,3 @@
+#!/bin/bash
+echo Finding git repositories..
+find /Users -name ".git" -print
